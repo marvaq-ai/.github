@@ -29,6 +29,20 @@ Transformamos una operación gestionada manualmente por WhatsApp en un sistema d
 - **0** reservas perdidas por falta de respuesta
 - WhatsApp API, Node.js, SQLite y Claude API
 
+### MARVAQ Sport
+
+Vertical de datos e inteligencia artificial para clubes y cuerpos técnicos.
+
+Integramos información de rendimiento, scouting, video y conocimiento del juego en sistemas diseñados para mejorar la toma de decisiones.
+
+[Conocer MARVAQ Sport](https://marvaq.com/sport.html)
+
+### MARVAQ Contabilidad
+
+Automatización, procesamiento documental, reporting e inteligencia artificial para estudios contables y equipos financieros.
+
+[Conocer MARVAQ Contabilidad](https://marvaq.com/contabilidad.html)
+
 ### xExtracta
 
 Producto desarrollado por Marvaq que convierte extractos bancarios PDF en planillas Excel listas para trabajar.
@@ -38,14 +52,6 @@ Producto desarrollado por Marvaq que convierte extractos bancarios PDF en planil
 - Aplicación disponible para Windows
 
 [xextracta.marvaq.com](https://xextracta.marvaq.com/)
-
-### MARVAQ Sport
-
-Vertical de datos e inteligencia artificial para clubes y cuerpos técnicos.
-
-Integramos información de rendimiento, scouting, video y conocimiento del juego en sistemas diseñados para mejorar la toma de decisiones.
-
-[Conocer MARVAQ Sport](https://marvaq.com/sport.html)
 
 ---
 
