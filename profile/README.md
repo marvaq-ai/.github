@@ -1,81 +1,98 @@
 # Marvaq — Data & AI desde el fin del mundo
 
-> **Data & AI consulting from the end of the world.**
-> Boutique specializing in data engineering, AI systems, and analytics — based in Tierra del Fuego, Argentina.
+> Diseñamos, construimos e implementamos sistemas de datos, automatización e inteligencia artificial que funcionan en la operación real.
+
+Somos un equipo técnico multidisciplinario radicado en Tierra del Fuego, Argentina. Trabajamos directamente con cada organización, desde el diagnóstico y la arquitectura hasta la implementación, documentación y transferencia del sistema.
 
 ---
 
-## Qué hacemos
+## Qué construimos
 
-No solo asesoramos — diseñamos, construimos e implementamos.
+| Capacidad | Qué entregamos |
+|---|---|
+| **Data Foundations** | Pipelines, integraciones, arquitectura cloud, calidad y modelado de datos |
+| **Intelligence & Automation** | Procesamiento documental, modelos predictivos, aplicaciones con LLM y agentes conectados a procesos reales |
+| **Production Software** | Aplicaciones internas, APIs, interfaces, automatizaciones y sistemas preparados para la operación diaria |
 
-| Área | Qué entregamos |
-|------|---------------|
-| **Data Engineering** | Pipelines, lakehouse, integración de fuentes, datos listos para producción |
-| **Analytics & BI** | Dashboards, modelos dimensionales, reporting ejecutivo y operativo |
-| **AI, LLM Apps & Automation** | Agentes, RAG, flujos con LLMs, MLOps y LLMOps en producción |
-| **Software Engineering** | Backends orientados a datos, APIs, integraciones y sistemas a medida |
+No entregamos prototipos aislados. Construimos herramientas integradas con los datos, sistemas y usuarios reales de cada organización.
+
+---
+
+## Trabajo real
+
+### Automatización de reservas y retención
+
+Transformamos una operación gestionada manualmente por WhatsApp en un sistema de reservas, recordatorios y fidelización.
+
+- **+40%** en frecuencia de visitas
+- **7** procesos automáticos
+- **0** reservas perdidas por falta de respuesta
+- WhatsApp API, Node.js, SQLite y Claude API
+
+### xExtracta
+
+Producto desarrollado por Marvaq que convierte extractos bancarios PDF en planillas Excel listas para trabajar.
+
+- Procesamiento 100% local
+- Los documentos no se suben a la nube
+- Aplicación disponible para Windows
+
+[xextracta.marvaq.com](https://xextracta.marvaq.com/)
+
+### MARVAQ Sport
+
+Vertical de datos e inteligencia artificial para clubes y cuerpos técnicos.
+
+Integramos información de rendimiento, scouting, video y conocimiento del juego en sistemas diseñados para mejorar la toma de decisiones.
+
+[Conocer MARVAQ Sport](https://marvaq.com/sport.html)
+
+---
+
+## Cómo trabajamos
+
+1. **Diagnóstico**  
+   Entendemos el problema, los datos disponibles, las restricciones y cómo medir el éxito.
+
+2. **Diseño técnico**  
+   Definimos alcance, arquitectura, riesgos y un primer entregable verificable.
+
+3. **Construcción**  
+   Trabajamos en iteraciones cortas con datos y usuarios reales.
+
+4. **Producción y transferencia**  
+   Desplegamos, monitoreamos, documentamos y acompañamos la adopción.
 
 ---
 
 ## Por qué Marvaq
 
-- **100% equipo técnico** — los que diseñan son los que construyen
-- **Outcome-based** — nos comprometemos con el resultado, no con el entregable
-- **Mismo huso horario** — sin fricción para equipos en Argentina y LatAm
-- **El código y los datos son tuyos** — sin lock-in, sin dependencia
-- **Primeros entregables en semanas**, no en meses
+- **Equipo técnico directo:** quienes entienden el problema también diseñan y construyen la solución.
+- **Producción, no demos:** entregamos sistemas integrados y preparados para el uso diario.
+- **Arquitectura bajo tu control:** el código, los datos y la documentación quedan en manos del cliente.
+- **Sin lock-in innecesario:** elegimos componentes mantenibles y reemplazables.
+- **Primer resultado verificable en semanas:** el alcance final depende de los datos y las integraciones.
 
 ---
 
-## Stack
+## Tecnologías
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+Trabajamos con el stack adecuado para cada problema y para la madurez tecnológica de cada organización.
 
----
-
-## Industrias
-
-Trabajamos con empresas en sectores donde los datos mueven decisiones reales:
-
-**Fintech & Financiero · Retail & E-commerce · Energía & Oil & Gas · Logística & Supply Chain · Gobierno & Sector Público · Industria & Manufactura · Turismo & Hotelería · Salud & Clínicas Privadas**
-
-TDF es nuestro mercado local. Argentina y LatAm, nuestro alcance. El mundo, nuestro horizonte.
-
----
-
-## Modelos de engagement
-
-| Modelo | Cuándo aplica |
-|--------|--------------|
-| **Equipo embebido** | Tu equipo necesita refuerzo técnico especializado en AI/Data |
-| **Proyecto gestionado** | Querés un entregable concreto sin armar un equipo interno |
-| **Advisory** | Necesitás estrategia y arquitectura sin ejecución |
-| **Capacitación** | Querés dejar capacidad instalada en tu equipo |
+**Python · SQL · FastAPI · PostgreSQL · dbt · Airflow · Docker · Node.js · TypeScript · AWS · OpenAI · Claude · LLMs · RAG · MLOps**
 
 ---
 
 ## Equipo
 
-Somos un equipo técnico radicado en Tierra del Fuego, Argentina.
-
 | Nombre | Rol |
-|--------|-----|
+|---|---|
 | **Ivan Ledesma** | AI/ML Engineer |
 | **Lautaro Bursese** | Forward Deployed Engineer |
-| **Diego Estrada** | AI Engineer |
 | **Horacio Ledesma** | Backend Engineer |
-| **Erina Peralta** | Full-stack Engineer |
+| **Erina Peralta** | Data Engineer |
+
+Somos una célula técnica boutique. El proyecto no pasa por capas comerciales: nuestros clientes trabajan con las personas responsables de llevarlo a producción.
 
 ---
 
@@ -90,5 +107,7 @@ Todo proyecto empieza con una conversación.
 ---
 
 <p align="center">
-  <sub>Tierra del Fuego, Argentina &nbsp;·&nbsp; Data & AI desde el fin del mundo</sub>
+  <strong>Datos, inteligencia artificial y software que funcionan en la operación real.</strong>
+  <br />
+  <sub>Tierra del Fuego, Argentina</sub>
 </p>
