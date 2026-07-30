@@ -29,7 +29,7 @@ Transformamos una operación gestionada manualmente por WhatsApp en un sistema d
 - **0** reservas perdidas por falta de respuesta
 - WhatsApp API, Node.js, SQLite y Claude API
 
-### MARVAQ Sport
+### MARVAQ Sports
 
 Vertical de datos e inteligencia artificial para clubes y cuerpos técnicos.
 
