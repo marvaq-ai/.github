@@ -43,10 +43,12 @@ Automatización, procesamiento documental, reporting e inteligencia artificial p
 
 [Conocer MARVAQ Contabilidad](https://marvaq.com/contabilidad.html)
 
-### xExtracta
+### xExtracta®
 
 Producto desarrollado por Marvaq que convierte extractos bancarios PDF en planillas Excel listas para trabajar.
 
+- Extractos de 14 bancos y billeteras, con la imputación contable sugerida en cada movimiento
+- **Tarjetas Corporativas** (nuevo en la versión 3.0.0): los resúmenes de tarjeta corporativa de 10 emisores a Excel, con las cuotas por mes y la imputación contable
 - Procesamiento 100% local
 - Los documentos no se suben a la nube
 - Aplicación disponible para Windows
