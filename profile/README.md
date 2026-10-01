@@ -37,15 +37,11 @@ Convertimos partidos, entrenamientos y datos de jugadores en información que el
 
 [Conocer los pilotos](https://marvaq.com/sports/servicios.html)
 
-### MARVAQ Servicios Financieros
+### MARVAQ Contabilidad
 
 Automatización, procesamiento documental, reporting e inteligencia artificial para estudios contables y equipos financieros.
 
-[Conocer MARVAQ Servicios Financieros](https://marvaq.com/servicios-financieros.html)
-
-### Industria / PyMEs / Manufactura
-
-Automatización y visión por computadora para industria, manufactura y PyMEs: menos tareas manuales y más control de la operación, con el hardware que ya tenés.
+[Conocer MARVAQ Contabilidad](https://marvaq.com/contabilidad.html)
 
 ### xExtracta
 
