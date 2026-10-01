@@ -37,11 +37,15 @@ Convertimos partidos, entrenamientos y datos de jugadores en información que el
 
 [Conocer los pilotos](https://marvaq.com/sports/servicios.html)
 
-### MARVAQ Contabilidad
+### MARVAQ Servicios Financieros
 
 Automatización, procesamiento documental, reporting e inteligencia artificial para estudios contables y equipos financieros.
 
-[Conocer MARVAQ Contabilidad](https://marvaq.com/contabilidad.html)
+[Conocer MARVAQ Servicios Financieros](https://marvaq.com/servicios-financieros.html)
+
+### Industria / PyMEs / Manufactura
+
+Automatización y visión por computadora para industria, manufactura y PyMEs: menos tareas manuales y más control de la operación, con el hardware que ya tenés.
 
 ### xExtracta
 
@@ -97,6 +101,8 @@ Trabajamos con el stack adecuado para cada problema y para la madurez tecnológi
 | **Lautaro Bursese** | Forward Deployed Engineer |
 | **Horacio Ledesma** | Backend Engineer |
 | **Erina Peralta** | Data Engineer |
+| **Emanuel Gercek** | Data Analytics |
+| **Tomás Coquoz** | Cybersecurity Analyst |
 
 Somos una célula técnica boutique. El proyecto no pasa por capas comerciales: nuestros clientes trabajan con las personas responsables de llevarlo a producción.
 
