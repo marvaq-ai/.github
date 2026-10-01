@@ -31,11 +31,11 @@ Transformamos una operación gestionada manualmente por WhatsApp en un sistema d
 
 ### MARVAQ Sports
 
-Vertical de datos e inteligencia artificial para clubes y cuerpos técnicos.
+Inteligencia de fútbol para clubes: scouting inteligente, análisis de rival y gestión de scouting, construidos sobre datos e IA.
 
-Integramos información de rendimiento, scouting, video y conocimiento del juego en sistemas diseñados para mejorar la toma de decisiones.
+Convertimos partidos, entrenamientos y datos de jugadores en información que el cuerpo técnico y la dirección deportiva pueden usar para decidir mejor. Estamos abriendo una primera etapa de pilotos con clubes.
 
-[Conocer MARVAQ Sport](https://marvaq.com/sport.html)
+[Conocer los pilotos](https://marvaq.com/sports/servicios.html)
 
 ### MARVAQ Contabilidad
 
