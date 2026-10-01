@@ -97,6 +97,8 @@ Trabajamos con el stack adecuado para cada problema y para la madurez tecnológi
 | **Lautaro Bursese** | Forward Deployed Engineer |
 | **Horacio Ledesma** | Backend Engineer |
 | **Erina Peralta** | Data Engineer |
+| **Emanuel Gercek** | Data Analytics |
+| **Tomás Coquoz** | Cybersecurity Analyst |
 
 Somos una célula técnica boutique. El proyecto no pasa por capas comerciales: nuestros clientes trabajan con las personas responsables de llevarlo a producción.
 
