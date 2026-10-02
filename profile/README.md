@@ -1,91 +1,38 @@
-# Marvaq — Data & AI desde el fin del mundo
+# Marvaq Sports — Inteligencia de fútbol para clubes
 
-> Diseñamos, construimos e implementamos sistemas de datos, automatización e inteligencia artificial que funcionan en la operación real.
+> Fichar mejor y analizar al rival con datos: scouting inteligente para clubes de fútbol.
 
-Somos un equipo técnico multidisciplinario radicado en Tierra del Fuego, Argentina. Trabajamos directamente con cada organización, desde el diagnóstico y la arquitectura hasta la implementación, documentación y transferencia del sistema.
-
----
-
-## Qué construimos
-
-| Capacidad | Qué entregamos |
-|---|---|
-| **Data Foundations** | Pipelines, integraciones, arquitectura cloud, calidad y modelado de datos |
-| **Intelligence & Automation** | Procesamiento documental, modelos predictivos, aplicaciones con LLM y agentes conectados a procesos reales |
-| **Production Software** | Aplicaciones internas, APIs, interfaces, automatizaciones y sistemas preparados para la operación diaria |
-
-No entregamos prototipos aislados. Construimos herramientas integradas con los datos, sistemas y usuarios reales de cada organización.
-
----
-
-## Trabajo real
-
-### Automatización de reservas y retención
-
-Transformamos una operación gestionada manualmente por WhatsApp en un sistema de reservas, recordatorios y fidelización.
-
-- **+40%** en frecuencia de visitas
-- **7** procesos automáticos
-- **0** reservas perdidas por falta de respuesta
-- WhatsApp API, Node.js, SQLite y Claude API
-
-### MARVAQ Sports
-
-Inteligencia de fútbol para clubes: scouting inteligente, análisis de rival y gestión de scouting, construidos sobre datos e IA.
+**Marvaq Sports** es la marca de deportes de **Marvaq**, un equipo técnico radicado en Tierra del Fuego, Argentina. El mismo equipo que diseña los modelos construye el producto y lo pone en producción.
 
 Convertimos partidos, entrenamientos y datos de jugadores en información que el cuerpo técnico y la dirección deportiva pueden usar para decidir mejor. Estamos abriendo una primera etapa de pilotos con clubes.
 
-[Conocer los pilotos](https://marvaq.com/sports/servicios.html)
+[Conocer los pilotos](https://marvaq.com/sports/servicios.html) · [marvaq.com/sports](https://marvaq.com/sports.html)
 
-### MARVAQ Contabilidad
+---
 
-Automatización, procesamiento documental, reporting e inteligencia artificial para estudios contables y equipos financieros.
+## Productos
 
-[Conocer MARVAQ Contabilidad](https://marvaq.com/contabilidad.html)
-
-### xExtracta
-
-Producto desarrollado por Marvaq que convierte extractos bancarios PDF en planillas Excel listas para trabajar.
-
-- Procesamiento 100% local
-- Los documentos no se suben a la nube
-- Aplicación disponible para Windows
-
-[xextracta.marvaq.com](https://xextracta.marvaq.com/)
-
+| Producto | Para qué |
+|---|---|
+| **Scouting Inteligente** | Encontrar y valorar jugadores con datos |
+| **Análisis de Rival** | Preparar el partido con información del rival |
+| **Gestión de Scouting** | Ordenar el trabajo del área de scouting |
+| **Player Asset Management** *(piloto)* | Gestionar el plantel propio |
 ---
 
 ## Cómo trabajamos
 
-1. **Diagnóstico**  
-   Entendemos el problema, los datos disponibles, las restricciones y cómo medir el éxito.
-
-2. **Diseño técnico**  
-   Definimos alcance, arquitectura, riesgos y un primer entregable verificable.
-
-3. **Construcción**  
-   Trabajamos en iteraciones cortas con datos y usuarios reales.
-
-4. **Producción y transferencia**  
-   Desplegamos, monitoreamos, documentamos y acompañamos la adopción.
+1. **Diagnóstico:** entendemos las decisiones del club, los datos disponibles y cómo medir el resultado.
+2. **Piloto:** un primer entregable verificable, con datos y usuarios reales.
+3. **Producción y transferencia:** desplegamos, documentamos y acompañamos la adopción.
 
 ---
 
-## Por qué Marvaq
+## Por qué Marvaq Sports
 
 - **Equipo técnico directo:** quienes entienden el problema también diseñan y construyen la solución.
-- **Producción, no demos:** entregamos sistemas integrados y preparados para el uso diario.
-- **Arquitectura bajo tu control:** el código, los datos y la documentación quedan en manos del cliente.
-- **Sin lock-in innecesario:** elegimos componentes mantenibles y reemplazables.
-- **Primer resultado verificable en semanas:** el alcance final depende de los datos y las integraciones.
-
----
-
-## Tecnologías
-
-Trabajamos con el stack adecuado para cada problema y para la madurez tecnológica de cada organización.
-
-**Python · SQL · FastAPI · PostgreSQL · dbt · Airflow · Docker · Node.js · TypeScript · AWS · OpenAI · Claude · LLMs · RAG · MLOps**
+- **Producción, no demos:** sistemas integrados en el trabajo diario del club.
+- **Lo que mostramos está respaldado:** datos con fuente y fecha, sin promesas que no podemos sostener.
 
 ---
 
@@ -98,24 +45,3 @@ Trabajamos con el stack adecuado para cada problema y para la madurez tecnológi
 | **Horacio Ledesma** | Backend Engineer |
 | **Erina Peralta** | Data Engineer |
 | **Emanuel Gercek** | Data Analytics |
-| **Tomás Coquoz** | Cybersecurity Analyst |
-
-Somos una célula técnica boutique. El proyecto no pasa por capas comerciales: nuestros clientes trabajan con las personas responsables de llevarlo a producción.
-
----
-
-## Contacto
-
-Todo proyecto empieza con una conversación.
-
-- **Web:** [marvaq.com](https://marvaq.com)
-- **Email:** [hello@marvaq.com](mailto:hello@marvaq.com)
-- **LinkedIn:** [linkedin.com/company/marvaq](https://linkedin.com/company/marvaq)
-
----
-
-<p align="center">
-  <strong>Datos, inteligencia artificial y software que funcionan en la operación real.</strong>
-  <br />
-  <sub>Tierra del Fuego, Argentina</sub>
-</p>
