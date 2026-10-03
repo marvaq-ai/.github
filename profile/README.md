@@ -40,8 +40,8 @@ Convertimos partidos, entrenamientos y datos de jugadores en información que el
 
 | Nombre | Rol |
 |---|---|
-| **Ivan Ledesma** | AI/ML Engineer |
-| **Lautaro Bursese** | Forward Deployed Engineer |
+| **Ivan Ledesma** | CEO |
+| **Lautaro Bursese** | CTO |
 | **Horacio Ledesma** | Backend Engineer |
 | **Erina Peralta** | Data Engineer |
 | **Emanuel Gercek** | Data Analytics |
