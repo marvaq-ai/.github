@@ -2,7 +2,7 @@
 
 > Fichar mejor y analizar al rival con datos: scouting inteligente para clubes de fútbol.
 
-**Marvaq Sports** es la marca de deportes de **Marvaq**, un equipo técnico radicado en Tierra del Fuego, Argentina. El mismo equipo que diseña los modelos construye el producto y lo pone en producción.
+**Marvaq Sports** es una startup de sport tech que desarrolla inteligencia de fútbol para clubes. El mismo equipo que diseña los modelos construye el producto y lo pone en producción.
 
 Convertimos partidos, entrenamientos y datos de jugadores en información que el cuerpo técnico y la dirección deportiva pueden usar para decidir mejor. Estamos abriendo una primera etapa de pilotos con clubes.
 
